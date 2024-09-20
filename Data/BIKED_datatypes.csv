@@ -1,0 +1,1504 @@
+,type
+SSSIDECX3,float64
+SSSIDECX2,float64
+SSSIDECX1,float64
+SSSIDECY3,int64
+SSSIDECY2,float64
+SSSIDECY1,float64
+HBAR type,object
+REARBROT_SHOW,bool
+STEMBENDS,int64
+FRONTROTORBOLTS,int64
+Shoe up angle,int64
+Rollout units,str
+Down tube front diameter,float64
+LRTHICK,int64
+FRONTRack type,object
+REARDiscAdaptOnPost,bool
+Shoe sideways,int64
+Front  fender width,int64
+CHAINGUARDC,float64
+CHAINGUARDB,float64
+CHAINGUARDA,float64
+Seatpost AERO,bool
+LRShiftY,int64
+LRShiftX,int64
+REARbrake kind,str
+Dropout joint 11,float64
+Dropout joint 10,float64
+Dropout joint 15,float64
+Dropout joint 14,float64
+Dropout joint 13,float64
+Dropout joint 12,float64
+Dropout joint 19,float64
+Dropout joint 18,float64
+Dropout joint 17,float64
+Dropout joint 16,float64
+CSSIDE2SnSlength,int64
+Dropout joint 22,float64
+Dropout joint 21,float64
+Dropout joint 20,float64
+Paint scale,float64
+Dropout joint 26,float64
+Dropout joint 25,float64
+Dropout joint 24,float64
+Dropout joint 23,float64
+nChain stay position on BB,float64
+Headset type,object
+REARCNTIshiftDX,float64
+LRPANNIERRAD,int64
+HBARRISE,float64
+Down tube rear dia2,float64
+STEM1SnSlength,int64
+Rack s3by,float64
+CORNERSEATSTAYS2,int64
+CORNERSEATSTAYS1,int64
+DOWNTUBE1SnSCheck,bool
+Front fender eyelet angle,float64
+SEATSTAYSYMMETRY,str
+CHAINSTAYSL10,int64
+CHAINSTAYSL11,int64
+HTBOTEXTX,int64
+HTBOTEXTY,int64
+USEgearbox,bool
+CHAINSTAYSL21,int64
+CHAINSTAYSL20,int64
+nSSAUXC_ang1,float64
+nSSAUXC_ang2,float64
+nSSAUXC_ang3,float64
+Top tube diameter,float64
+LRPANNIER type,object
+HBAR style,str
+SSAUXC_ang3,float64
+SSAUXC_ang2,float64
+STPSbatAng,int64
+SSAUXC_ang1,float64
+FRONTRack height,int64
+FRONTRack s1tx,int64
+Lower stack height,float64
+TOPTUBEPBrad,int64
+DOWNTUBEPBrad,int64
+nSSAUXCXr1,float64
+nSSAUXCXr2,float64
+nSSAUXCXr3,float64
+Dropout ADJSL,int64
+REARROTOR_INCLUDE,bool
+STEM2SnSshift,int64
+Down tube front dia2,float64
+REARROTORTHICK,float64
+FDDISTC,float64
+nCSAUXCY1,float64
+nCSAUXCY3,int64
+nCSAUXCY2,float64
+CSAUXCY1,float64
+FRONTCARGOHEIGHT,float64
+CSAUXCY3,int64
+CSAUXCY2,float64
+nCSAUXCX3,float64
+SEATTUBECrad3,int64
+SEATTUBECrad1,int64
+SEATTUBECrad2,int64
+SEATTUBE1SnSdia1,int64
+SEATTUBE1SnSdia2,int64
+nCSAUXCX2,float64
+nCSAUXCX1,float64
+Cranks style,str
+Rack s2tx,float64
+FDDISTD,int64
+FRONTbrake style,str
+CSAUXCX2,float64
+CSAUXCX1,float64
+CSAUXCX3,float64
+CSSIDE1SnSlength,int64
+SPIDER_ARM_WIDTH,float64
+FDDIST,int64
+Down tube rear diameter,float64
+FRONTRack s1by,int64
+Dim E TextField,float64
+nSeat stay Curv Check,bool
+SEATTUBEC_s3,float64
+SEATTUBEC_s2,float64
+SEATTUBEC_s1,float64
+Rack type,object
+ForkLengthMeasurement2,int64
+ForkLengthMeasurement0,str
+ForkLengthMeasurement1,str
+Front Fender clearance,float64
+Rack s3bby,float64
+Rack HOOK3,int64
+Rack HOOK1,int64
+Seat stay mount location,str
+LRPANNIERShiftY,int64
+LRPANNIERShiftX,int64
+DIRECTMOUNTFDTYPE,object
+FRONTROTORANGLE_ONE,int64
+CSSIDEISBENT,bool
+DOWNTUBEPBheight,int64
+ELBOWTHICKNESS,int64
+CSAUXB_STYLE,int64
+Dropout model,object
+CORNERFRONTWHEEL1,int64
+CORNERFRONTWHEEL2,int64
+CORNERREARWHEEL1,int64
+Crank width at BB,float64
+BB textfield,float64
+CORNERREARWHEEL2,int64
+Seatpost LEN2,float64
+Top tube angle textfield,float64
+LINKpump2SCHEME,bool
+SQUIGGLY,bool
+STEM3_MM_RATIO,str
+HEADTUBEtype,object
+MtnBar angle,float64
+SEATSTAYholeCheck,bool
+SSAUX1_MM_RATIO,str
+LOOPED_STAYS,bool
+Seat tube front dia2,float64
+CHNG_THICK,float64
+RTHRUAXLE,bool
+STEPSL1,int64
+STEPSL2,int64
+SPC_Y,float64
+FRONTCARGORAD,int64
+nChain stay back diameter,float64
+Rack s1tx,float64
+Rack angle,float64
+SHOES_aux,bool
+CSSIDE1SnSlen1,int64
+CSSIDE1SnSlen2,int64
+nCSSIDECX2,float64
+nCSSIDECX3,float64
+nCSSIDECX1,float64
+FRONTCALPRV,float64
+FRONTCALPRW,float64
+FRONTCALPRX,float64
+FRONTCALPRY,float64
+HBARALPHA,float64
+Waterbottle boss spacing,int64
+CHEVRONHEADTUBE2B,int64
+CHEVRONHEADTUBE2A,int64
+nCSSIDECY3,int64
+nCSSIDECY1,float64
+nCSSIDECY2,int64
+CHEVRONHEADTUBE2D,int64
+CHEVRONHEADTUBE2C,int64
+STEM2SnSlen2,int64
+DOWNTUBE2SnSdia1,int64
+DOWNTUBE2SnSdia2,int64
+STEM2SnSlen1,int64
+DOWNTUBE1SnSlen2,int64
+DOWNTUBE1SnSlen1,int64
+Front fender end angle,float64
+Wheel width rear,float64
+FRONTROTORZ,float64
+CHAIN_GUARDSTYLE,str
+CRANK_SPIDER,int64
+SSSIDECXr3,float64
+SSSIDECXr2,float64
+SSSIDECXr1,float64
+FLANGEDIST_DS front,float64
+SPC_FRONT,float64
+INCLUDE_STRUT3,bool
+INCLUDE_STRUT1,bool
+CHEVRONHEADTUBE2SL,int64
+FOREHEADtoBACKofHEAD,int64
+nSSSIDEC_s2,float64
+nSSSIDEC_s3,float64
+FRONTROTORA,float64
+FRONTROTORB,int64
+FRONTROTORG,float64
+FRONTROTORE,float64
+FRONTROTORF,int64
+FRONTROTORK,float64
+FRONTROTORL,float64
+FRONTROTORJ,float64
+nSSSIDEC_s1,float64
+MTNGRIPDIA,float64
+BB measure style,str
+SPOKE_HOLE_DIA rear,float64
+ANKLETHICKNESS,int64
+BB to handlebar direct,int64
+STEM2_MM_RATIO,int64
+Free spaceRIGHT,int64
+BATTERYmount,object
+Crank length,float64
+Mountain bar sweep,float64
+FRONTRack include,bool
+Rack include,bool
+Saddle style,str
+Wall thickness Top tube,float64
+FRONTPANNIERLENTOP,int64
+Saddle P,float64
+Saddle M,float64
+Seat stay junction4,int64
+Saddle N,float64
+Seat stay junction2,float64
+Saddle K,float64
+Seat stay junction3,int64
+Saddle I,float64
+Seat stay junction0,float64
+Saddle J,float64
+Seat stay junction1,float64
+FRONTRack s3tx,int64
+Saddle R,float64
+TOPTUBEB_STYLE,int64
+Saddle G,float64
+DOWNTUBE2_MM_RATIO,int64
+Saddle H,float64
+Saddle E,float64
+Saddle F,float64
+Saddle C,float64
+Saddle D,float64
+Saddle B,float64
+CSSIDECXr2,float64
+CSSIDECXr3,float64
+CSSIDECXr1,float64
+nSSSIDECrad3,int64
+nSSSIDECrad1,float64
+nSSSIDECrad2,float64
+CHEVRONHEADTUBE2ON,bool
+SPOKE_CIRC_DIA front,float64
+CORNERSEATPOST2,int64
+CORNERSEATPOST1,int64
+PANNIERLENTOP,int64
+FRONTRack HOOK3,float64
+FRONTRack HOOK1,int64
+STEMC_ang3,float64
+STEMC_ang1,float64
+STEMC_ang2,float64
+CRANK_POS,str
+SSAUXISBENT,bool
+UPPERARMLENGTH,int64
+LOWERARMLENGTH,int64
+SEATTUBEC_ang2,float64
+SEATTUBEC_ang1,float64
+SEATTUBEC_ang3,float64
+FRONTCARGOShiftY,int64
+FRONTCARGOShiftX,int64
+CORNERFORK1,int64
+CORNERFORK2,int64
+SADDLETIPtoMIDDLE,float64
+SEATSTAYdimpleCheck,bool
+CHAINSTAYholeCheck,bool
+SHIFTonAERO,bool
+CHEVRONHEADTUBE1A,int64
+CHEVRONHEADTUBE1D,int64
+CHEVRONHEADTUBE1C,int64
+STEMVARI,bool
+CHEVRONHEADTUBE1B,int64
+Saddle length,float64
+MTNDROP,float64
+nSSSIDEC_ang2,float64
+nSSSIDEC_ang1,float64
+nSSSIDEC_ang3,float64
+FLANGEDIST_DS rear,float64
+Seat tube length,float64
+BELTorCHAIN,str
+TOPTUBECXr3,float64
+TOPTUBECXr2,float64
+DOWNTUBEBENDS,int64
+TOPTUBECXr1,float64
+FRONTRack s3by,int64
+Shoe size,int64
+DOWNTUBE1SnSshift,int64
+CSSIDE2SnSlen2,int64
+CSSIDE2SnSlen1,int64
+STEM2SnSlength,int64
+REARROTOREP,float64
+TOPTUBEBENDS,str
+shifterA2,float64
+SEATSTAYbrdgdia2,int64
+SEATSTAYbrdgdia1,float64
+BELT_PITCH,int64
+Dropout spacing,float64
+Version,int64
+TOPTUBE2SnSlen2,int64
+TOPTUBE2SnSlen1,int64
+HBARTHETA,float64
+Crosshair locked,bool
+CHAIN_WIDTH,float64
+CHEVRONSEATTUBE1ON,bool
+FRONTRack s3bby,int64
+AEROPAD_LIP,int64
+Wall thickness Seat stay,float64
+Paint outline percent,int64
+CHEVRONHEADTUBE1SL,int64
+Head tube type,str
+Crosshair Y,float64
+Crosshair X,float64
+CHEVRONSEATTUBE1SL,int64
+nSSSIDEB_STYLE,int64
+CSAUXC_s2,float64
+CSAUXC_s1,float64
+FRONTPANNIERLENBOT,int64
+CSAUXC_s3,float64
+shifterA1,float64
+CHEVRONSEATTUBE2D,int64
+CHEVRONSEATTUBE2B,int64
+CHEVRONSEATTUBE2C,int64
+CHEVRONSEATTUBE2A,int64
+USEdtShiftBoss,bool
+CHEVRONSEATTUBE1C,int64
+CHEVRONSEATTUBE1D,int64
+CHEVRONSEATTUBE1A,int64
+CHEVRONSEATTUBE1B,int64
+FRONTdiscB style,str
+Saddle ANGLE_SYMB,float64
+Seat tube leading edge textfield,float64
+SSSIDECrad3,int64
+SSSIDECrad1,float64
+SSSIDECrad2,float64
+Down tube diameter,float64
+BB length,float64
+nSSAUXISBENT,bool
+CHAINSTAYbrdgholeshift,float64
+Hub flange dia front,float64
+FRONTRack s2tx,int64
+SSSIDE2SnSdia1,int64
+SSSIDE2SnSdia2,int64
+DOWNTUBE3_MM_RATIO,int64
+REARCNTIW,int64
+PANNIERLENBOT,int64
+Seatpost setback,float64
+CHEVRONHEADTUBE1ON,bool
+CORNERCHAINSTAYS1,int64
+Seat tube chord length textfield,float64
+CORNERCHAINSTAYS2,int64
+SSSIDE1SnSlen2,int64
+SSSIDE1SnSlen1,int64
+Paint shearX,float64
+BEND_POSITION,int64
+FRONTBROT_SHOW,bool
+REARCALPRY,float64
+REARCALPRX,float64
+REARCALPRW,float64
+REARCALPRV,float64
+REARROTORKP,float64
+nCSAUXBENDS,int64
+FRONTRack seat stay mount,int64
+BB to hands angle,int64
+Dimension units,str
+Seatpost type,object
+REARROTORLP,int64
+Seat tube rear dia2,float64
+FDx,float64
+Display SEATPOST_CLAMP,bool
+Seat stay Curv or Rake,str
+REARROTORJP,int64
+FRONTRack angle,float64
+REARROTORGP,float64
+FRONTbrake type,object
+SPOKE_PHASE_SHIFT rear,int64
+REARROTORFP,float64
+CSSIDE2_MM_RATIO,int64
+Rack s3tx,float64
+Seat stay Curv Check,bool
+FRONTBRAKEPX,float64
+FRONTBRAKEPY,float64
+FRONTBRAKEPH,float64
+TOPTUBE2SnSlength,int64
+FRONTBRAKEPL,float64
+Headset spacers,float64
+Head tube upper extension,float64
+nSSSIDEISBENT,bool
+FRONTCNTIFS,int64
+SSSIDE3_MM_RATIO,int64
+Pad horizontal,int64
+SPC_RAD1,float64
+SPC_RAD3,float64
+SPC_RAD2,float64
+CSAUX2_MM_RATIO,str
+Crank down angle,int64
+FRONTRack lip,int64
+Rack offset from seat stay,float64
+Paint translate Y,float64
+Paint translate X,float64
+DOWNTUBEC_ang1,float64
+DOWNTUBEC_ang2,float64
+DOWNTUBEC_ang3,float64
+AEROF,int64
+AEROG,int64
+SADDLE_REF_POINTY,int64
+SADDLE_REF_POINTX,float64
+Rack height,float64
+LRPANNIERYT,int64
+Paint angle,float64
+Stem type,object
+CHAINSTAYbrdgCheck,bool
+SPOKES composite front,int64
+FRONTCARGO style,str
+CSSIDE1_MM_RATIO,int64
+SEATSTAYbrdgholeshift,float64
+TOPTUBEC_s3,float64
+TOPTUBEC_s2,float64
+TOPTUBEC_s1,float64
+nSSAUXBENDS,int64
+ROTOR_aux,bool
+SPIDER_DIAMETER,float64
+SSSIDE1SnSshift,int64
+FRONTCNTIXD,int64
+ST_IS_MITERED_TO_DT,bool
+SEATSTAY_VF,float64
+STEM2SnSCheck,bool
+SLIDING,bool
+CARGOHEIGHT,float64
+SBLADEW front,float64
+CORNERSEATTUBE2,int64
+CORNERSEATTUBE1,int64
+REARCNTIXD,int64
+SaddleQorQ2,int64
+Top tube rear diameter,float64
+CSSIDE2SnSCheck,bool
+FDTHETA,float64
+MTNDIA,float64
+DOWNTUBE2SnSshift,int64
+SBLADER front,int64
+FRONTPANNIERHEIGHT,int64
+Rack support,float64
+Rack tubing,float64
+SQUIGGLEX,int64
+SQUIGGLEY,int64
+nSSSIDE2_MM_RATIO,int64
+SPOKES front,int64
+THICKNESSofPELVIS,int64
+STEM1_MM_RATIO,str
+TOPTUBE1SnSCheck,bool
+DISCONTINUOUS,bool
+Seatpost CONSTANT,bool
+CHAINSTAYAUXrearDIAMETER,float64
+REARROTORG,float64
+REARROTORF,float64
+REARROTORK,float64
+REARROTORJ,float64
+REARROTORL,float64
+Stem angle,float64
+Cadence,int64
+SPOKE_OFFSET front,float64
+REARROTORA,float64
+REARROTORB,int64
+REARROTORE,float64
+REARROTORZ,float64
+CSSIDECX1,float64
+CSSIDECX2,float64
+SPC_OFFSET,float64
+CSSIDECX3,float64
+Dim B CheckBox,bool
+LRPANNIERHEIGHT,int64
+CSSIDECY1,float64
+CSSIDECY2,int64
+CSSIDECY3,int64
+RIM_SIDEWALL rear,float64
+Number of cogs,int64
+FEND_aux,bool
+Pump size,object
+FRONTDiscTabIsPost,bool
+Wall thickness Seat tube,float64
+BULLALPHA,float64
+shifterX,float64
+Fender side coverage,float64
+CHEVRONDOWNTUBE1A,int64
+CHEVRONDOWNTUBE1C,int64
+REARCNTIFS,int64
+CHEVRONDOWNTUBE1B,int64
+CHEVRONDOWNTUBE1D,int64
+LRHEIGHT,int64
+STEM1SnSlen1,int64
+STEM1SnSlen2,int64
+PhBlock styleTOPTUBE,str
+CHNG_SPACING,float64
+CHEVRONDOWNTUBE2B,int64
+CHEVRONDOWNTUBE2A,int64
+CHEVRONDOWNTUBE2D,int64
+CHEVRONDOWNTUBE2C,int64
+SEATTUBE1SnSlength,int64
+MATERIAL,object
+LUG_DIM_E,float64
+LUG_DIM_F,float64
+LUG_DIM_G,float64
+LUG_DIM_H,float64
+SELECTEDCOG,int64
+REARCNTIBH,int64
+CLAMPB,float64
+CLAMPC,float64
+REARCNTIBV,float64
+Mountain bar rise,float64
+DOWNTUBE2SnSlen1,int64
+DOWNTUBE2SnSlen2,int64
+Free spaceLEFT,int64
+Seatpost style,str
+FRONTCNTIlen2,float64
+FRONTCNTIlen1,float64
+Handlebar angle,float64
+Front  fender thick,float64
+PumpLocate,str
+FRONTBRAKEBX,int64
+FRONTBRAKEAX,float64
+Seatpost CAPPED,bool
+Front Fender include,bool
+Stembodyfdiameter,float64
+Top tube front center measure style,str
+CSSIDE2SnSdia1,int64
+CSSIDE2SnSdia2,int64
+Stack,float64
+FRONTRack s1bby,int64
+Rear Fender include,bool
+Wall thickness Chain stay,float64
+SSSIDEBENDS,int64
+FRONTPANNIERoffsetTop,int64
+TOPTUBEFILLET0,bool
+TOPTUBEFILLET1,bool
+TOPTUBEFILLET2,bool
+TOPTUBEFILLET3,bool
+Seatpost LENGTH,int64
+REARROTORANGLE_TWOP,int64
+PAD2PADW,int64
+STEM1SnSCheck,bool
+SPC_LIP,float64
+PANNIERoffset,int64
+CORNERTOPTUBE1,int64
+Head tube upper extension2,float64
+CORNERTOPTUBE2,int64
+Seat tube rear diameter,float64
+nCSSIDEC_s1,float64
+Stem body diameter,float64
+REARROTORBOLTS,int64
+nCSSIDEC_s3,float64
+nCSSIDEC_s2,float64
+CHNG_CRNK_CLEAR,float64
+CS measure style,str
+Wheel diameter front,float64
+FRONTdiscB type,object
+Crank Q factor,float64
+CLAMPSTYLE,str
+Hand horizontal,int64
+Down tube leading edge,float64
+Rear fender end angle,float64
+SIZE,object
+Fork straight blade,bool
+ANKLEtoHEEL,int64
+Pannier include,bool
+CHAINSTAY_Z,float64
+Bullhorn reach,int64
+CHAINSTAY_X,float64
+FRONTCALPRANG,int64
+CHAINSTAY_K,float64
+CHAINSTAY_J,float64
+CHAINSTAY_H,float64
+CHAINSTAY_G,float64
+SSSIDE2SnSlen1,int64
+Fork sag,float64
+SSSIDE2SnSlen2,int64
+SSSIDE2SnSCheck,bool
+SpearP1X,float64
+StaticDropout,object
+SpearP1Y,float64
+TOPTUBE2SnSCheck,bool
+INCLUDE_SEATSTAY,bool
+nCSAUX2_MM_RATIO,str
+CHAINSTAYbrdgdia1,float64
+CHAINSTAYbrdgdia2,int64
+SPOKE_OFFSET2 front,float64
+CORNERHEADTUBE2,int64
+CORNERHEADTUBE1,int64
+FDslot,int64
+SpearP3X,float64
+SpearP3Y,float64
+SpearP2X,float64
+SpearP2Y,float64
+Dropout spacing style,str
+Crouch,int64
+TOPTUBE2SnSdia1,int64
+TOPTUBE2SnSdia2,int64
+RIM_STYLE front,object
+FORK2R,float64
+FORK2W,float64
+FORK2T,float64
+FORK2B,int64
+FORK2C,int64
+FORK2A,float64
+FORK2F,int64
+FORK2G,int64
+FORK2D,int64
+FORK2E,int64
+FORK2J,float64
+FORK2K,int64
+FORK2H,float64
+FORK2L,float64
+FORK1R,float64
+FORK1T,float64
+Front fender eyelet radius,float64
+FORK1W,float64
+FORK1A,float64
+FORK1B,float64
+FORK1E,float64
+FORK1F,float64
+FORK1C,float64
+FORK1D,float64
+FORK1J,float64
+FORK1G,float64
+FORK1H,float64
+FORK1K,float64
+FORK1L,float64
+FORK0T,float64
+FORK0R,float64
+FORK0W,float64
+FORK0A,float64
+FORK0D,float64
+FORK0E,float64
+FORK0B,float64
+FORK0C,float64
+FORK0H,float64
+FORK0F,float64
+Rack lip,float64
+FORK0G,float64
+FORK0L,float64
+FORK0J,float64
+Seat stay bottom diameter,float64
+FORK0K,float64
+Chain stay horizontal diameter,float64
+PRODUCTION,bool
+SPOKE_CIRC_DIA rear,float64
+TOPTUBE1SnSlen1,float64
+TOPTUBE1SnSlen2,float64
+CSAUXSLIDER,int64
+Strut thickness,float64
+LRPANNIERoffsetTop,float64
+FRONTBRAKE_SHOW,bool
+STEMC_s1,float64
+STEMC_s2,float64
+STEMC_s3,float64
+SSAUX2_MM_RATIO,str
+REARBRAKE_INCLUDE,bool
+CLAMPDIA,float64
+PEDAL_LENGTH,float64
+nCSSIDE2_MM_RATIO,int64
+Dropout joint 7,float64
+Dropout joint 8,float64
+Dropout joint 9,float64
+HAND_TWEAK_X0,int64
+HAND_TWEAK_X2,int64
+HAND_TWEAK_X1,int64
+HAND_TWEAK_X3,int64
+Dropout joint 0,float64
+SPROCKETS type,object
+Dropout joint 1,float64
+Dropout joint 2,float64
+Dropout joint 3,float64
+Dropout joint 4,float64
+Dropout joint 5,float64
+Dropout joint 6,float64
+PhBlock typeDOWNTUBE,object
+REARdiscB style,str
+FDshift,int64
+FRONTbrakeAW,float64
+Headset style,str
+SEATSTAYbrdgvari,bool
+SEATTUBEBENDS,str
+CSSIDEBENDS,int64
+BULLTHETA,int64
+PANNIERLENGTH,int64
+DropoutParamOrStatic,str
+CSSIDE1SnSshift,float64
+Rim depth rear,float64
+AEROBAR_EX,int64
+FRONTbrakeBW,float64
+SEATRAILSHIFT,float64
+Pedal thickness,float64
+SSAUXSLIDER,int64
+nSeat stay mount location,str
+LowRider include,bool
+REARCNTIlen2,float64
+REARCNTIlen1,float64
+nSSSIDECX1,float64
+FRONTFLIP,bool
+nSSSIDECX3,float64
+nSSSIDECX2,float64
+TOPTUBEL23,float64
+TOPTUBEL22,int64
+TOPTUBEL21,float64
+TOPTUBEL20,float64
+nSSSIDECY2,float64
+nSSSIDECY1,float64
+nSSSIDECY3,int64
+FRONTINCLUDE_STRUT1,bool
+FRONTINCLUDE_STRUT3,bool
+TOPTUBEL13,int64
+TOPTUBEL12,float64
+TOPTUBEL11,int64
+TOPTUBEL10,int64
+Seat angle,float64
+SSSIDE2SnSshift,int64
+Road bar reach,float64
+CLAMPOFFSET,float64
+BIKESTYLE,object
+TT is displayed,bool
+DOWNTUBEC_s3,float64
+DOWNTUBEC_s1,float64
+DOWNTUBEC_s2,float64
+HBARDIA,float64
+HIPJOINTOFFSET,int64
+REARbrake style,str
+Wheel style rear,int64
+Head tube diameter,float64
+SSAUXBENDS,int64
+AxlDia,float64
+CARGOLENGTH,int64
+TOPTUBEPBCheck,bool
+HAND_TWEAK_Y1,int64
+HAND_TWEAK_Y0,int64
+HAND_TWEAK_Y3,int64
+TOPTUBEPBheight,int64
+HAND_TWEAK_Y2,int64
+TOPTUBE2SnSshift,int64
+SEATSTAYSFILLET1,bool
+SEATSTAYSFILLET0,bool
+CHAINSTAYdimplex,int64
+CHAINSTAYdimpley,int64
+Seatpost CHORD,float64
+TOPTUBE1SnSshift,int64
+CSAUXCrad2,int64
+CSAUXCrad3,int64
+CSAUXCrad1,int64
+ShoeTipOrCleatX,str
+FRONTCNTIW,int64
+DOWNTUBEL20,int64
+DOWNTUBEL21,int64
+DOWNTUBEL22,int64
+DOWNTUBEL23,float64
+Saddle P2,int64
+SEATTUBE1SnSlen2,int64
+Landscape,bool
+SEATTUBE1SnSlen1,int64
+DOWNTUBEL10,int64
+DOWNTUBEL11,int64
+DOWNTUBEL12,float64
+DOWNTUBEL13,int64
+Dim A Foot TextField,int64
+W3orF,int64
+SSSIDE1_MM_RATIO,int64
+SEATTUBE2SnSdia2,float64
+SEATTUBE2SnSdia1,float64
+Saddle Q2,int64
+CSSIDE1SnSCheck,bool
+nCSSIDEB_STYLE,int64
+Dim F TextField,float64
+standCustAspect,int64
+nCSAUXC_s3,float64
+SELECTEDRING,int64
+nCSAUXC_s1,float64
+nCSAUXC_s2,float64
+CSSIDE2SnSshift,int64
+nCSAUXB_STYLE,int64
+REARROTORANGLE_ONE,float64
+TOTAL_AVAILABLE_SPACERS,float64
+STEMCY3,int64
+STEMCY1,float64
+STEMCY2,int64
+nSSAUX2_MM_RATIO,str
+DT is displayed,bool
+GEARBOXtype,object
+STEMCX2,float64
+STEMCX3,float64
+STEMCX1,float64
+SSSIDE1SnSlength,int64
+SPOKE_DIA front,float64
+Seat tube front diameter,float64
+Hub flange dia rear,float64
+nSeat stay bottom diameter,float64
+Chain stay position on BB,float64
+LINKstem2SCHEME,bool
+DERAILLEURX,int64
+DERAILLEURL,int64
+dropoutInsert,object
+SSAUXCY2,float64
+HORIZONTAL_TOP,str
+SSAUXCY3,int64
+Shoe down angle,int64
+SSAUXCY1,float64
+Dropout R,float64
+Dropout S,int64
+SSAUXCX1,float64
+SSAUXCX2,float64
+SSAUXCX3,float64
+RIMMSW front,float64
+Dropout F,float64
+Dropout E,float64
+Dropout G,float64
+nCSAUXC_ang1,float64
+nCSAUXC_ang3,float64
+nCSAUXC_ang2,float64
+TORSOLENGTH,int64
+CARGO style,str
+PANNIER style,str
+TOPTUBEPBlength,float64
+SAME_SIZED_FRONT_AND_REAR,bool
+DOWNTUBEPBlength,float64
+Crank thickness,float64
+SEATSTAYbrdgoffset,int64
+REARdiscB type,object
+spc type,str
+SSSIDEISBENT,bool
+LRPANNIERLENTOP,int64
+TOPTUBE1_MM_RATIO,int64
+FRONTRack RADS3,int64
+CSAUXC_ang1,float64
+FRONTRack RADS1,int64
+CSAUXC_ang2,float64
+CSAUXC_ang3,float64
+DROPPERSHIFT,float64
+Rack tabF,float64
+SPC_REAR,float64
+Rack tabR,float64
+SEATTUBE2_MM_RATIO,int64
+HEADTUBEFILLET0,bool
+FRONTRack style,str
+FRONTRack RADH3,float64
+PANNIERRAD,int64
+FDwid,float64
+Cranks type,object
+MTB_BorY,int64
+STEMB_STYLE,int64
+CHEVRONDOWNTUBE2SL,int64
+STCUTB,int64
+STCUTA,int64
+STCUTC,int64
+SEATTUBECX2,float64
+SEATTUBECX3,float64
+SEATTUBECX1,float64
+SEATTUBEB_STYLE,int64
+SSSIDEC_s1,float64
+SSSIDEC_s3,float64
+SSSIDEC_s2,float64
+SEATTUBECY3,int64
+SEATTUBECY1,float64
+SEATTUBECY2,int64
+BULLRADIUS2,int64
+Teeth on cog 2,int64
+BULLRADIUS1,int64
+Teeth on cog 3,int64
+Teeth on cog 4,int64
+Teeth on cog 5,int64
+Teeth on cog 0,int64
+CROWN DISPLAYSTATE,int64
+Teeth on cog 1,int64
+Teeth on cog 6,int64
+Teeth on cog 7,int64
+Teeth on cog 8,int64
+Teeth on cog 9,int64
+REARCALPRANG,int64
+SEATSTAYbrdgCheck,bool
+SEATTUBE1_MM_RATIO,int64
+FRONTROTORANGLE_ONEP,int64
+MTNRISEANG,int64
+Pedals style,str
+BOSS_D,float64
+TOPTUBECrad3,int64
+ST measure style,str
+TOPTUBECrad1,int64
+TOPTUBECrad2,int64
+DOWNTUBE Wheel cut,int64
+Seatpost RADIUS,int64
+Aerobar style,str
+LINKspcr2SCHEME,bool
+SSSIDE1SnSCheck,bool
+CLAMPID,float64
+Toe overlap bar angle,int64
+CHEVRONDOWNTUBE2ON,bool
+FRONTCARGOLENGTH,float64
+TOPTUBEISBENT,bool
+REARFLIP,bool
+SHIFTERtype,str
+BarEndShiftType,str
+Fender strut 4,bool
+Fender strut 2,bool
+Fender strut 3,bool
+Fender strut 1,bool
+nSSSIDECXr2,float64
+nSSSIDECXr3,float64
+nSSSIDECXr1,float64
+FRONTRack length,int64
+STEM1SnSdia1,int64
+STEM1SnSdia2,int64
+GEARBOXangle,float64
+MOUNT_TYPE,object
+FLANGEDIST_ND rear,float64
+Wheel cut,float64
+nCHAINSTAYAUXrearDIAMETER,float64
+LRPANNIERLENBOT,int64
+Road bar drop,float64
+SEATTUBE3_MM_RATIO,int64
+nSSAUX3_MM_RATIO,int64
+CHAIN_aux,bool
+Rack seat stay mount,float64
+DOWNTUBEFILLET0,bool
+DOWNTUBEFILLET1,bool
+DOWNTUBEFILLET2,bool
+DOWNTUBEFILLET3,bool
+DOWNTUBECrad1,int64
+DOWNTUBECrad2,int64
+DOWNTUBECrad3,int64
+nCSAUXISBENT,bool
+nSSAUXC_s2,float64
+nSSAUXC_s1,float64
+Sitting positionY,int64
+nSSAUXC_s3,float64
+Sitting positionX,int64
+SHOW_OR_HIDE_UNITS,bool
+CHAINGUARDDR,float64
+Wall thickness Extra tube,int64
+CHAINGUARDDF,float64
+Wishbone diameter,float64
+Stem kind,str
+nSSTopZOFFSET,float64
+CS textfield,float64
+SUSPENSION,bool
+BRAKEMOUNT_TO,str
+TOPTUBE2_MM_RATIO,int64
+CSAUXISBENT,bool
+CHAINGUARDHF,float64
+CHAINGUARDHR,int64
+SPOKE_CIRC_DIA2 front,float64
+SPOKE_OFFSET rear,float64
+SPC_HIG,int64
+nSSAUX1_MM_RATIO,str
+StemX,int64
+StemV,float64
+StemU,float64
+Display FENDERS,bool
+StemY,float64
+FRONTINCLUDE_HOOK1,bool
+FRONTINCLUDE_HOOK3,bool
+Pedal width,float64
+KNEETHICKNESS,int64
+LRLENBOT,int64
+DOWNTUBE2SnSCheck,bool
+Yoke type,object
+AEROBARDIA,float64
+StemG,float64
+STEM2SnSdia2,int64
+STEM2SnSdia1,int64
+nCSAUXCrad3,int64
+nCSAUXCrad2,int64
+nCSAUXCrad1,int64
+Fender clearance,float64
+INCLUDE_HOOK1,bool
+REARBRAKE_SHOW,bool
+INCLUDE_HOOK3,bool
+SSSIDEC_ang3,float64
+SSAUXB_STYLE,int64
+SSSIDEC_ang1,float64
+SSSIDEC_ang2,float64
+nCHAINSTAY_X,float64
+nCHAINSTAY_Z,float64
+CHAINGUARDXC,float64
+nCHAINSTAY_G,float64
+nCHAINSTAY_H,float64
+nCHAINSTAY_J,float64
+nCHAINSTAY_K,float64
+FRONTBRAKED,float64
+FRONTBRAKEL,float64
+ST_TOP_LENGTH,int64
+nSEATSTAY_K,float64
+nSEATSTAY_J,float64
+nSEATSTAY_H,float64
+nSEATSTAY_G,float64
+CHAINSTAYSFILLET0,bool
+CHAINSTAYSFILLET1,bool
+nSEATSTAYTAPERLENGTH,float64
+SSAUXCXr3,float64
+SSAUXCXr1,float64
+SSAUXCXr2,float64
+Fork type,str
+nCSAUX1_MM_RATIO,str
+FRONTCARGO type,object
+nChain stay vertical diameter,float64
+PumpAng,float64
+REARBRAKED,float64
+SPOKE_OFFSET2 rear,float64
+Rack RADH1,int64
+Rack RADH3,int64
+REARBRAKEL,float64
+STEM1SnSshift,int64
+STEPSbatRKx,int64
+STEPSbatRKy,int64
+SEATSTAYbrdgshift,float64
+DOWNTUBE2SnSlength,int64
+nWishbone diameter,float64
+CARGOShiftX,int64
+CARGOShiftY,float64
+Down tube aero diameter,float64
+RIM_STYLE rear,object
+HEADTUBEL20,int64
+HEADTUBEL10,int64
+HAND2HANDW,int64
+SPOKE_DIA rear,float64
+Top tube rear dia2,float64
+Rack style,str
+Wall thickness Down tube,float64
+Free spaceBOTTOM,int64
+nChain stay horizontal diameter,float64
+Display CHAINGUARD,bool
+SEATTUBE2SnSlen1,int64
+SEATTUBE2SnSlen2,int64
+PANNIERoffsetTop,int64
+FRONTBRAKE_INCLUDE,bool
+DOTS_INSTEAD_OF_ARROWS,bool
+PumpX,float64
+PumpY,float64
+Dim E CheckBox,bool
+CHAINSTAYbrdgvari,bool
+Wheel diameter rear,float64
+Top tube front dia2,float64
+EYELETS,str
+REARROTORANGLE_TWO,float64
+FRONTRack support,int64
+Dim A Inch TextField,float64
+SPOKE_CIRC_DIA2 rear,float64
+INVERTED,bool
+Wall thickness Boom tube,int64
+DOTSonEXTlines,bool
+Dropout cstm or std,int64
+CHAINSTAYOFFSET,float64
+FRONTCargo include,bool
+FRONTPANNIERShiftY,int64
+FRONTPANNIERShiftX,int64
+SADDLEPOSITIONMEASURESTYLE,int64
+Rear fender start angle,float64
+nSeat stay Curv or Rake,str
+PANNIERShiftY,int64
+PANNIERShiftX,float64
+Rack RADS1,int64
+Rack RADS3,float64
+Collar height,float64
+Brake lever position,int64
+Cargo include,bool
+Brake lever brand,object
+Seat tube extension,float64
+SEATSTAY_HF,float64
+SSTopZOFFSET,float64
+CHAINSTAYbrdgshift,float64
+SPOKES rear,int64
+SEATPOSTA,float64
+nSEATSTAY_HF,float64
+nSEATSTAY_HR,float64
+TOPTUBE1SnSlength,float64
+FRONTPANNIERYT,int64
+DOWNTUBEPBCheck,bool
+nCSSIDECrad1,int64
+nCSSIDECrad2,int64
+nCSSIDECrad3,int64
+Cleat Y,int64
+BB diameter,float64
+CSSIDEC_s2,float64
+CSSIDEC_s3,float64
+CSSIDEC_s1,float64
+Cleat X,int64
+FRONTRack tabR,float64
+PhBlock styleDOWNTUBE,str
+FRONTRack tabF,float64
+nSeat stay junction0,float64
+nSeat stay junction1,float64
+nSeat stay junction2,float64
+nSeat stay junction3,int64
+nSeat stay junction4,int64
+nCSSIDEISBENT,bool
+pumpLength,float64
+BOSS_T,float64
+SPIDER_ARM_PHASE_SHIFT,int64
+Rack length,float64
+yoke to BB,int64
+RIMMSW rear,float64
+LEFTY,bool
+DOWNTUBEISBENT,bool
+Hub flange dia2 rear,float64
+CSSIDEB_STYLE,int64
+SEATSTAY_HR,float64
+FCD textfield,float64
+Rim depth front,float64
+FRONTRack tubing,float64
+DROPPER,bool
+FRONTROTORTHICK,float64
+USEFRNTDER,bool
+FRONTRack RADH1,int64
+LRPannier include,bool
+Pedals type,object
+Handlebar width,float64
+Saddle angle,float64
+ClmpYfromBB,float64
+nSSSIDE1_MM_RATIO,int64
+THRU_AXLE,bool
+Hand position,str
+Teeth on cog 11,int64
+Teeth on cog 10,int64
+nSEATSTAY_VF,float64
+Seat tube extension2,float64
+Front Strut thickness,float64
+PANNIERYT,float64
+Dim D TextField,float64
+FLANGEDIST_ND front,float64
+FRONTCNTIBV,float64
+Dim D CheckBox,bool
+FRONTCNTIBH,int64
+DUAL_DIMS,bool
+FRONTROTOR_INCLUDE,bool
+LWequalsOL,bool
+Rear  fender width,int64
+nSSAUXB_STYLE,int64
+nCHAINSTAYOFFSET,float64
+DIMENSION_NAMES,bool
+SEATSTAYTAPERLENGTH,int64
+FRONTROTORKP,int64
+SEATSTAYdimpley,float64
+SEATSTAYdimplex,int64
+FRONTROTORLP,int64
+LINKfork2SCHEME,bool
+Rear  fender thick,float64
+FadeP1X,float64
+FadeP1Y,float64
+FRONTRack offset from seat stay,int64
+CORNERSTEM1,int64
+CORNERSTEM2,int64
+FRONTROTORGP,float64
+Dim C CheckBox,bool
+FadeP2X,float64
+FadeP2Y,float64
+LRPANNIERLENGTH,int64
+FRONTROTORJP,int64
+CHEVRONTOPTUBE2D,int64
+STEMISBENT,bool
+CHEVRONTOPTUBE2A,int64
+CHEVRONTOPTUBE2B,int64
+Display RACK,bool
+CHEVRONTOPTUBE2C,int64
+nCSSIDECXr3,float64
+nCSSIDECXr2,float64
+nCSSIDECXr1,float64
+ST_BOTTOM_LENGTH,int64
+CHEVRONSEATTUBE2SL,int64
+Wall thickness Stem,float64
+Dropout ADJ,float64
+CSAUXBENDS,int64
+Upper stack height,float64
+CSSIDE1SnSdia2,float64
+Fork style,str
+CSSIDE1SnSdia1,int64
+SaddleYfromBB,float64
+Pad vertical,float64
+ANGLE_OF_THE_HEAD,int64
+Chain stay taper,float64
+FRONTROTORANGLE_TWO,float64
+SEATTUBE1SnSCheck,bool
+CHEVRONTOPTUBE1C,int64
+CHEVRONTOPTUBE1D,int64
+CHEVRONTOPTUBE1A,int64
+CHEVRONTOPTUBE1B,int64
+LINE_WEIGHT,float64
+SHOULDERtoJAW,int64
+REARCNTIdia1,float64
+REARCNTIdia2,int64
+Head tube chord,int64
+Front Fender side coverage,float64
+TOPTUBE1SnSdia1,float64
+TOPTUBE1SnSdia2,float64
+Wheel choice rear,object
+REARbrake type,object
+Collar diameter,float64
+PumpTube,str
+CHEVRONSEATTUBE2ON,bool
+RIM_SIDEWALL front,float64
+HEADTUBEstyle,str
+INCLUDE_CHAINSTAY,bool
+CHAINSTAYdimpleCheck,bool
+CHEVRONTOPTUBE2SL,int64
+Number of chainrings,int64
+CSAUXCXr3,float64
+CSAUXCXr2,float64
+CSAUXCXr1,float64
+Rack RAD,float64
+SSAUXCrad3,int64
+SSAUXCrad2,int64
+SSAUXCrad1,float64
+AEROPAD_LENGTH,int64
+Crank up angle,int64
+DOWNTUBECY1,int64
+DOWNTUBECY2,float64
+DOWNTUBECY3,int64
+FRONTROTOREP,float64
+TIREM front,float64
+FRONTROTORFP,float64
+REARBRAKEPH,float64
+Bullhorn drop,float64
+CHEVRONTOPTUBE2ON,bool
+REARBRAKEPX,float64
+REARBRAKEPL,float64
+Chain stay back diameter,float64
+REARBRAKEPY,float64
+CSSIDECrad3,int64
+CSSIDECrad2,int64
+CSSIDECrad1,int64
+DOWNTUBE1SnSdia2,float64
+SEATSTAYSL11,int64
+DOWNTUBE1SnSdia1,float64
+SEATSTAYSL10,float64
+DOWNTUBECX1,float64
+TIREM rear,float64
+DOWNTUBECX2,float64
+PANNIERHEIGHT,int64
+DOWNTUBECX3,float64
+Stem length,float64
+nSSSIDEBENDS,int64
+SEATSTAYSL21,int64
+SEATSTAYSL20,float64
+REARROTORDIA,int64
+SPC_THICK,float64
+Head tube lower extension2,float64
+Seat stay wishbone,bool
+CLAMPFDTYPE,object
+Display AEROBARS,bool
+SEATTUBE2SnSCheck,bool
+Wheel style front,int64
+Chain stay trad wish yoke,str
+FRONTPANNIERRAD,int64
+SSSIDE2_MM_RATIO,int64
+SPC_DIA,float64
+CSSIDE3_MM_RATIO,int64
+nSSSIDE3_MM_RATIO,int64
+DOWNTUBEB_STYLE,int64
+BATTERYchoice,object
+CSAUX1_MM_RATIO,str
+SSSIDE1SnSdia1,float64
+SSSIDE1SnSdia2,float64
+nCSSIDEBENDS,int64
+REARBRAKEAX,float64
+LRLENGTH,int64
+REARBRAKEBX,int64
+DERAILLEUR_HANGER,bool
+CSSIDEC_ang1,float64
+CSSIDEC_ang2,float64
+FRONTDiscAdaptOnPost,bool
+Teeth on chainring 2,int64
+CSSIDEC_ang3,float64
+Teeth on chainring 0,int64
+Teeth on chainring 1,int64
+DOWNTUBECXr1,float64
+DOWNTUBECXr2,float64
+DOWNTUBECXr3,float64
+FRONTRack RAD,int64
+FRONTPANNIERoffset,int64
+Pedal style,str
+nChain stay taper,float64
+Dim C TextField,float64
+Wheel choice front,object
+HEADSETprofile,str
+Bullhorn rise,float64
+Dim A TextField,float64
+Bullhorn risy,int64
+Seat tube diameter,float64
+Chain stay vertical diameter,float64
+nSSAUXCX1,float64
+nSSAUXCX2,float64
+nSSAUXCX3,float64
+nCSSIDE1_MM_RATIO,int64
+CORNERstyle,str
+nSSAUXCY1,float64
+nSSAUXCY2,float64
+nSSAUXCY3,int64
+Hole Angle,float64
+CORNERDOWNTUBE1,int64
+CORNERDOWNTUBE2,int64
+Seat tube type,str
+nyoke to BB,int64
+DERAILLEUR_PULLEY2_TEETH,int64
+FRONTbrake kind,str
+Bullhorn angle,float64
+CHAINSTAYbrdgoffset,float64
+Paper aspect ratioTF,float64
+nSSAUXCrad2,int64
+nSSAUXCrad3,int64
+Wheel width front,float64
+nSSAUXCrad1,float64
+Stem style,str
+TOPTUBEC_ang3,float64
+TOPTUBEC_ang1,float64
+TOPTUBEC_ang2,float64
+CARGORAD,int64
+SPOKE_PHASE_SHIFT front,int64
+CHAINSTAYASYMMETRIC,bool
+Head angle,float64
+PhBlock typeTOPTUBE,object
+Hub flange dia2 front,float64
+SHOULDERroll,int64
+LOWERLEGLENGTH,int64
+FRONTPannier include,bool
+Dim F CheckBox,bool
+DROPOUT STYLE,object
+LRRAD,int64
+OFFSET_AT_BB st,float64
+SEATTUBEISBENT,bool
+STEMCrad3,int64
+STEMCrad2,int64
+STEMCrad1,float64
+Fork travel,float64
+nCSAUXCXr1,float64
+nCSAUXCXr2,float64
+SSAUXC_s3,float64
+TOPTUBECY3,int64
+TOPTUBECY2,float64
+TOPTUBECY1,float64
+nCSAUXCXr3,float64
+TOPTUBECX3,float64
+TOPTUBECX2,float64
+TOPTUBECX1,float64
+Top tube front diameter,float64
+SSAUXC_s1,float64
+SSAUXC_s2,float64
+Pumporient,str
+Seatpost NUT,int64
+Rack s1by,float64
+SPOKES composite rear,int64
+LRPANNIERoffset,int64
+UPPERLEGLENGTH,int64
+STEPSW2,int64
+STEPSW1,int64
+Crank angle,float64
+DOWNTUBE1_MM_RATIO,int64
+TIRE_aux,bool
+SPOKE_HOLE_DIA front,float64
+Seatpost diameter,float64
+FRONTROTORANGLE_TWOP,int64
+LRoffset,int64
+Female,bool
+DERAILLEUR_PULLEY_TEETH,int64
+FRONTROTORDIA,int64
+SEATTUBECXr3,float64
+SEATTUBECXr2,float64
+SEATTUBECXr1,float64
+ONEPIECE,bool
+SSSIDE2SnSlength,int64
+nCSSIDE3_MM_RATIO,int64
+nCSAUX3_MM_RATIO,str
+FRONTPANNIERLENGTH,int64
+BULLDIA,float64
+LRPANNIER style,str
+nCSAUXSLIDER,int64
+Seatpost DIA2,float64
+Seatpost DIA3,int64
+LR style,str
+Head tube C,float64
+Head tube B,float64
+Head tube A,float64
+Head tube E,float64
+Head tube D,float64
+SEATTUBE1SnSshift,int64
+Seatpost TRAVEL,int64
+FDlen,int64
+Head tube d,float64
+HBAREXTEND,float64
+Saddle height,float64
+Hand vertical,int64
+FRONTCNTIdia1,float64
+FRONTCNTIdia2,int64
+DOWNTUBE1SnSlength,int64
+BELT_WIDTH,int64
+Rack forkx,float64
+Rack forky,int64
+LR type,object
+AEROPAD_THICK,int64
+Seat tube bottom diameter textfield,float64
+Dropout OFF,int64
+Rack s1bby,float64
+FRONTCNTIshiftDX,float64
+Fit scheme,object
+Head tube length textfield,float64
+nSSAUXSLIDER,int64
+Seatpost MAST,bool
+STEMCXr1,float64
+STEMCXr2,float64
+STEMCXr3,float64
+SBLADER rear,int64
+STEPSbatDTy,int64
+STEPSbatDTx,int64
+Fork choice,object
+Gearing analysis,str
+Down tube type,str
+Saddle thickness,float64
+SSSIDEB_STYLE,int64
+Handlebar Y textfield,float64
+SPROCKETS style,str
+SSAUX3_MM_RATIO,int64
+Handlebar style,str
+Front fender start angle,float64
+TwoColP2Y,float64
+TwoColP2X,float64
+SEATTUBE2SnSlength,int64
+HBARRAD1,float64
+HBARRAD2,float64
+Saddle type,object
+Crank width at pedals,float64
+CHEVRONDOWNTUBE1SL,int64
+REARbrakeBW,float64
+CARGO type,object
+SEATSTAY_K,float64
+SEATSTAY_J,float64
+SPC_WID,int64
+SEATSTAY_G,float64
+SEATSTAY_H,float64
+CASS_aux,bool
+SBLADEW rear,float64
+ThreeColP1X,float64
+ThreeColP1Y,float64
+REARbrakeAW,int64
+nCSSIDEC_ang3,float64
+nCSSIDEC_ang2,float64
+nCSSIDEC_ang1,float64
+ThreeColP3X,float64
+ThreeColP3Y,float64
+TwoColP1Y,float64
+TwoColP1X,float64
+ThreeColP2Y,float64
+ThreeColP2X,float64
+Dim B TextField,float64
+TRACK_ERGO,str
+FRONTPANNIER style,str
+PANNIER type,object
+FRONTPANNIER type,object
+CHEVRONTOPTUBE1SL,int64
+CassZ,float64
+CassT,float64
+CassA,float64
+Head tube lower extension,float64
+Top tube type,str
+SEATTUBE2SnSshift,int64
+BRAZEonFDTYPE,object
+DUAL_CROWN,bool
+REARDiscTabIsPost,bool
+CSAUX3_MM_RATIO,str
+TOPTUBE3_MM_RATIO,int64
+CHEVRONDOWNTUBE1ON,bool
+CHEVRONTOPTUBE1ON,bool
+OFFSET_AT_BB dt,float64
+Dim A CheckBox,bool
+REARROTORANGLE_ONEP,float64
+bottle SEATTUBE0 show,object
+bottle SEATTUBE0 WBL,int64
+bottle SEATTUBE0 WBD,float64
+bottle SEATTUBE0 WBX,int64
+bottle SEATTUBE0 WBY,float64
+bottle DOWNTUBE0 show,object
+bottle SEATTUBE0 SIZE,int64
+bottle DOWNTUBE0 SIZE,int64
+bottle SEATTUBE0 X,int64
+bottle DOWNTUBE0 WBY,float64
+bottle DOWNTUBE0 WBX,float64
+bottle DOWNTUBE0 WBL,int64
+bottle DOWNTUBE0 WBD,float64
+bottle SEATTUBE0 flip,int64
+bottle SEATTUBE0 CAGE,int64
+bottle DOWNTUBE0 flip,int64
+bottle DOWNTUBE0 X,float64
+bottle DOWNTUBE0 CAGE,int64
+rockerPosition,int64
+RDERD,float64
+FDERD,float64
+RDBSD,float64
+FDBSD,float64
