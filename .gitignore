@@ -1,0 +1,34 @@
+# # Ignore all files with a specific extension
+# *.log
+# *.tmp
+
+# # Ignore a specific file
+# secret_config.json
+
+# # Ignore an entire directory
+# /node_modules/
+# /build/
+
+# # Ignore everything in a folder except one file
+# /data/*
+# !/data/important.csv
+
+# # Ignore all hidden files and directories
+# .*
+
+*.pdf
+# /Standardized Images/
+/Main/images/
+/Main/Latent Distribution/
+/Main/agreement-ignore.ipynb
+/Main/raw_ratings_preliminary/
+/Main/data_augmentation.ipynb
+/Main/fine_tune.ipynb
+/Main/firebase-env.json
+/Main/interpolation.ipynb
+/Main/parameter_analysis.ipynb
+/Main/plots.py
+/Main/preprocess.py
+/Main/random.ipynb
+/imgs/
+/Generated BCAD Files/
