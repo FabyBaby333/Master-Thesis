@@ -11,4 +11,6 @@ Regenwetter, Lyle, Brent Curry, and Faez Ahmed. “BIKED: A Dataset and Machine 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
 
-<!-- in collaboration with the Design Computation and Digital Engineering (DeCoDE) Lab in the Mechanical Engineering department at the Massachusetts Institute of Technology (MIT). Specifically, it builds upon the research conducted by: -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.9.1-orange?logo=tensorflow)
+![TensorFlow Probability](https://img.shields.io/badge/TensorFlow%20Probability-0.15.0-blue?logo=tensorflow)
+![Python](https://img.shields.io/badge/Python-3.9.10-blue?logo=python)
