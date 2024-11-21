@@ -1206,51 +1206,79 @@ RDERD,float64
 FDERD,float64
 RDBSD,float64
 FDBSD,float64
+HBAR type OHCLASS: Bonrager on Domane,bool
+HBAR type OHCLASS: Generic BMX,bool
 HBAR type OHCLASS: Generic track,bool
 Rollout units OHCLASS: 0,bool
+REARbrake kind OHCLASS: 0,bool
 REARbrake kind OHCLASS: 1,bool
+Headset type OHCLASS: Cane Creek (External Cup),bool
 Headset type OHCLASS: Cane Creek (Integrated),bool
+"Headset type OHCLASS: Chris King 1-1/8""",bool
 SEATSTAYSYMMETRY OHCLASS: 1,bool
+Rack type OHCLASS: Sample 2 support,bool
 Rack type OHCLASS: Sample rear rack,bool
 ForkLengthMeasurement0 OHCLASS: 1,bool
 ForkLengthMeasurement1 OHCLASS: 1,bool
 Seat stay mount location OHCLASS: 0,bool
+Seat stay mount location OHCLASS: 2,bool
 DIRECTMOUNTFDTYPE OHCLASS: FDM9000D,bool
+Dropout model OHCLASS: Generic socket style,bool
 Dropout model OHCLASS: Generic track dropout,bool
 STEM3_MM_RATIO OHCLASS: 1,bool
 HEADTUBEtype OHCLASS: Paragon 105mm tapered,bool
+HEADTUBEtype OHCLASS: Paragon for 44mm cups,bool
 SSAUX1_MM_RATIO OHCLASS: 0,bool
+SSAUX1_MM_RATIO OHCLASS: 1,bool
 CHAIN_GUARDSTYLE OHCLASS: 2,bool
 BATTERYmount OHCLASS: DOWNTUBE,bool
 CRANK_POS OHCLASS: 1,bool
 BELTorCHAIN OHCLASS: 1,bool
 TOPTUBEBENDS OHCLASS: 0,bool
+Head tube type OHCLASS: 0,bool
 Head tube type OHCLASS: 1,bool
 Dimension units OHCLASS: 0,bool
+Dimension units OHCLASS: 1,bool
 Seatpost type OHCLASS: 27.2 X 300mm generic post,bool
 Seat stay Curv or Rake OHCLASS: 0,bool
 FRONTbrake type OHCLASS: Generic V-Brake,bool
+FRONTbrake type OHCLASS: Generic caliper,bool
 CSAUX2_MM_RATIO OHCLASS: 1,bool
 Stem type OHCLASS: 100mm -5 degree,bool
+Stem type OHCLASS: 100mm 5 degree,bool
 FRONTCARGO style OHCLASS: 0,bool
 STEM1_MM_RATIO OHCLASS: 1,bool
 Pump size OHCLASS: IMPEROSMALL,bool
 PhBlock styleTOPTUBE OHCLASS: 0,bool
+MATERIAL OHCLASS: ALUMINIUM,bool
+MATERIAL OHCLASS: CARBON,bool
 MATERIAL OHCLASS: STEEL,bool
 PumpLocate OHCLASS: 0,bool
 FRONTdiscB type OHCLASS: Generic 160mm I.S.,bool
 CLAMPSTYLE OHCLASS: 2,bool
+"SIZE OHCLASS: 19""",bool
 "SIZE OHCLASS: 20.75""",bool
+SIZE OHCLASS: 52,bool
+SIZE OHCLASS: 53,bool
+SIZE OHCLASS: 56,bool
+SIZE OHCLASS: 58,bool
 StaticDropout OHCLASS: ADG_400,bool
 nCSAUX2_MM_RATIO OHCLASS: 1,bool
 Dropout spacing style OHCLASS: 0,bool
+Dropout spacing style OHCLASS: 2,bool
 RIM_STYLE front OHCLASS: SPOKED,bool
+RIM_STYLE front OHCLASS: TRISPOKE,bool
 SSAUX2_MM_RATIO OHCLASS: 1,bool
+SPROCKETS type OHCLASS: 1-speed 16T,bool
+SPROCKETS type OHCLASS: 10-speed 11-34,bool
 SPROCKETS type OHCLASS: 9-speed 11-32,bool
+SPROCKETS type OHCLASS: 9-speed 12-23,bool
 PhBlock typeDOWNTUBE OHCLASS: 32mm Sputnik,bool
+SEATTUBEBENDS OHCLASS: 0,bool
 SEATTUBEBENDS OHCLASS: 1,bool
 DropoutParamOrStatic OHCLASS: 0,bool
 nSeat stay mount location OHCLASS: 0,bool
+nSeat stay mount location OHCLASS: 2,bool
 ShoeTipOrCleatX OHCLASS: 0,bool
 nSSAUX2_MM_RATIO OHCLASS: 1,bool
 GEARBOXtype OHCLASS: BOSCH_STEEL_NODE_V23A,bool
@@ -1260,54 +1288,88 @@ CARGO style OHCLASS: 0,bool
 PANNIER style OHCLASS: 0,bool
 REARdiscB type OHCLASS: Generic 160mm I.S.,bool
 spc type OHCLASS: 0,bool
+spc type OHCLASS: 3,bool
 FRONTRack style OHCLASS: 0,bool
 Cranks type OHCLASS: 170 Campy Record,bool
+Cranks type OHCLASS: 172.5 44/32/22,bool
 Pedals style OHCLASS: 0,bool
+Pedals style OHCLASS: 1,bool
 Aerobar style OHCLASS: 1,bool
 SHIFTERtype OHCLASS: 2,bool
 BarEndShiftType OHCLASS: 0,bool
 MOUNT_TYPE OHCLASS: BRAZEON,bool
 Stem kind OHCLASS: 0,bool
 BRAKEMOUNT_TO OHCLASS: 0,bool
+BRAKEMOUNT_TO OHCLASS: 1,bool
 nSSAUX1_MM_RATIO OHCLASS: 0,bool
+nSSAUX1_MM_RATIO OHCLASS: 1,bool
 Yoke type OHCLASS: KONGA,bool
 Fork type OHCLASS: 0,bool
+Fork type OHCLASS: 2,bool
 nCSAUX1_MM_RATIO OHCLASS: 0,bool
+nCSAUX1_MM_RATIO OHCLASS: 1,bool
+RIM_STYLE rear OHCLASS: DISC,bool
 RIM_STYLE rear OHCLASS: SPOKED,bool
 Rack style OHCLASS: 0,bool
 EYELETS OHCLASS: 0,bool
 nSeat stay Curv or Rake OHCLASS: 0,bool
+Brake lever brand OHCLASS: CAMPAGNOLO,bool
+Brake lever brand OHCLASS: CAMPAGNOLO_BAR_END,bool
 Brake lever brand OHCLASS: SHIMANO,bool
+Brake lever brand OHCLASS: SHIMANO_2012,bool
 PhBlock styleDOWNTUBE OHCLASS: 0,bool
 Pedals type OHCLASS: Generic platform,bool
+Pedals type OHCLASS: SPDlike,bool
+Pedals type OHCLASS: XTR SPD,bool
 Hand position OHCLASS: 1,bool
+Hand position OHCLASS: 2,bool
+"Wheel choice rear OHCLASS: 26 X 1.9/1.95""",bool
 "Wheel choice rear OHCLASS: 26 X 2.125/2.2""",bool
+Wheel choice rear OHCLASS: 700 X 23c Trispoke,bool
+Wheel choice rear OHCLASS: Reynolds Strike R,bool
 REARbrake type OHCLASS: Generic V-Brake,bool
+REARbrake type OHCLASS: Generic caliper,bool
 PumpTube OHCLASS: 2,bool
 CLAMPFDTYPE OHCLASS: FD9000B,bool
 Chain stay trad wish yoke OHCLASS: 0,bool
 CSAUX1_MM_RATIO OHCLASS: 0,bool
+CSAUX1_MM_RATIO OHCLASS: 1,bool
 Pedal style OHCLASS: 1,bool
+Pedal style OHCLASS: 2,bool
+"Wheel choice front OHCLASS: 26 X 1.9/1.95""",bool
 "Wheel choice front OHCLASS: 26 X 2.125/2.2""",bool
+Wheel choice front OHCLASS: 650 X 28B,bool
+Wheel choice front OHCLASS: 700 X 23c Trispoke,bool
+HEADSETprofile OHCLASS: 0,bool
 HEADSETprofile OHCLASS: 2,bool
 CORNERstyle OHCLASS: 0,bool
+Seat tube type OHCLASS: 0,bool
 Seat tube type OHCLASS: 1,bool
 FRONTbrake kind OHCLASS: 0,bool
 PhBlock typeTOPTUBE OHCLASS: 32mm Sputnik,bool
 DROPOUT STYLE OHCLASS: PLATE_STYLE_DROPOUT,bool
+DROPOUT STYLE OHCLASS: SOCKET_STYLE_DROPOUT,bool
 Pumporient OHCLASS: 0,bool
 nCSAUX3_MM_RATIO OHCLASS: 0,bool
 LRPANNIER style OHCLASS: 0,bool
 LR style OHCLASS: 0,bool
 Fit scheme OHCLASS: Road,bool
+Fit scheme OHCLASS: Time trial,bool
+Fork choice OHCLASS: Generic Curved Blade 50mm,bool
+Fork choice OHCLASS: Generic Straight Blade 50mm,bool
 Fork choice OHCLASS: Suspension Fork 100mm Travel,bool
 Gearing analysis OHCLASS: 1,bool
+Gearing analysis OHCLASS: 3,bool
+Down tube type OHCLASS: 0,bool
 Down tube type OHCLASS: 2,bool
 Handlebar style OHCLASS: 1,bool
+Handlebar style OHCLASS: 2,bool
 Saddle type OHCLASS: Sleek road,bool
+Saddle type OHCLASS: fi'zi:k Arione,bool
 TRACK_ERGO OHCLASS: 0,bool
 FRONTPANNIER style OHCLASS: 0,bool
 Top tube type OHCLASS: 0,bool
+Top tube type OHCLASS: 1,bool
 BRAZEonFDTYPE OHCLASS: FD9000F,bool
 CSAUX3_MM_RATIO OHCLASS: 0,bool
 bottle SEATTUBE0 show OHCLASS: False,bool
